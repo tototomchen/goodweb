@@ -1,0 +1,9 @@
+1.  https://www.androiddevtools.cn/   安卓工具资料网站
+2.  http://android.lineten.net/layout.php#    布局代码生成网站
+3.  https://www.json.cn/             解析JSON
+4.  https://tinypng.com/             图片压缩
+5.  http://gank.io/post/560e15be2dca930e00da1083   RxJava 详解
+6.  https://fanyi.baidu.com/         百度翻译
+7.  https://www.pgyer.com/           App内测测试网站
+8.  https://github.com/              万恶之源---砖窑
+9.  http://angrytools.com/android/button/   button生成shape
