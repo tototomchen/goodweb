@@ -1,9 +1,11 @@
-1.  https://www.androiddevtools.cn/   安卓工具资料网站
-2.  http://android.lineten.net/layout.php#    布局代码生成网站
-3.  https://www.json.cn/             解析JSON
-4.  https://tinypng.com/             图片压缩
-5.  http://gank.io/post/560e15be2dca930e00da1083   RxJava 详解
-6.  https://fanyi.baidu.com/         百度翻译
-7.  https://www.pgyer.com/           App内测测试网站
-8.  https://github.com/              万恶之源---砖窑
-9.  http://angrytools.com/android/button/   button生成shape
+1.  https://www.androiddevtools.cn/   瀹夊崜宸ュ叿璧勬枡缃戠珯
+2.  http://android.lineten.net/layout.php#    甯冨眬浠ｇ爜鐢熸垚缃戠珯
+3.  https://www.json.cn/             瑙ｆ瀽JSON
+4.  https://tinypng.com/             鍥剧墖鍘嬬缉
+5.  http://gank.io/post/560e15be2dca930e00da1083   RxJava 璇﹁В
+6.  https://fanyi.baidu.com/         鐧惧害缈昏瘧
+7.  https://www.pgyer.com/           App鍐呮祴娴嬭瘯缃戠珯
+8.  https://github.com/              涓囨伓涔嬫簮---鐮栫獞
+9.  http://angrytools.com/android/button/   button鐢熸垚shape
+10. https://github.com/hehonghui/android-tech-frontier
+    http://www.devtf.cn/            瀹氭湡鏇存柊鏂囩珷
